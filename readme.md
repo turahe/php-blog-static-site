@@ -1,3 +1,7 @@
+[![GitHub issues](https://img.shields.io/github/issues/turahe/php-blog-static-site)](https://github.com/turahe/php-blog-static-site/issues)
+[![GitHub forks](https://img.shields.io/github/forks/turahe/php-blog-static-site)](https://github.com/turahe/php-blog-static-site/network)
+[![GitHub stars](https://img.shields.io/github/stars/turahe/php-blog-static-site)](https://github.com/turahe/php-blog-static-site/stargazers)
+[![GitHub license](https://img.shields.io/github/license/turahe/php-blog-static-site)](https://github.com/turahe/php-blog-static-site/blob/master/LICENSE.txt)
 # Jigsaw Blog Starter Template
 
 This is a starter template for creating a beautiful, customizable blog in Jigsaw with minimal effort. You’ll only have to change a few settings and you’re ready to go.
